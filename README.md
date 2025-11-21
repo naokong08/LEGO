@@ -1,3 +1,7 @@
+# readme
+
+This repository will be deleted when the project ends.
+
 LEGO3.csv : 레고 웹사이트 크롤링한 CSV
 
 link_collector.R : 레고 모든 제품 링크를 추출하는 R코드
